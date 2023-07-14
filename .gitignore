@@ -4,3 +4,4 @@ push.sh
 .hypothesis
 node_modules
 package-lock.json
+nohup.out
