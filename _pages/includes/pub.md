@@ -14,13 +14,13 @@
 
 
 <div class='paper-box'><div class='paper-box-image'><div>
-<!-- <div class="badge">Preprint 2023</div> -->
+<div class="badge">ICCV 2023</div>
 <img src='images/paddles.jpg' alt="sym" width="100%">
 </div></div><div class='paper-box-text' markdown="1">
 
 [PADDLES: Phase-Amplitude Spectrum Disentangled Early Stopping for Learning with Noisy Labels](https://arxiv.org/abs/2212.03462)
 
-Huaxi Huang<sup>*</sup>, **Hui Kang**<sup>*</sup>, Sheng Liu, Olivier Salvado, Thierry Rakotoarivelo, Dadong Wang, Tongliang Liu, Preprint 2023
+Huaxi Huang<sup>*</sup>, **Hui Kang**<sup>*</sup>, Sheng Liu, Olivier Salvado, Thierry Rakotoarivelo, Dadong Wang, Tongliang Liu, ICCV 2023
 
 </div>
 </div>

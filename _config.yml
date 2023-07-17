@@ -88,10 +88,12 @@ exclude:
   - gulpfile.js
   - log
   - node_modules
-  - package.json
   - tmp
   - vendor
   - nohup.out
+  - build.sh
+  - install.sh
+  - package-lock.json
 keep_files:
   - .git
   - .svn
